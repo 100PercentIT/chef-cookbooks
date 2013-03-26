@@ -24,13 +24,13 @@
 	url = https://github.com/opscode-cookbooks/ntp.git
 [submodule "cookbooks/nova"]
 	path = cookbooks/nova
-	url = https://github.com/rcbops-cookbooks/nova.git
+	url = https://github.com/100PercentIT/nova.git
 [submodule "cookbooks/keystone"]
 	path = cookbooks/keystone
-	url = https://github.com/rcbops-cookbooks/keystone.git
+	url = https://github.com/100PercentIT/keystone.git
 [submodule "cookbooks/glance"]
 	path = cookbooks/glance
-	url = https://github.com/rcbops-cookbooks/glance.git
+	url = https://github.com/100PercentIT/glance.git
 [submodule "cookbooks/horizon"]
 	path = cookbooks/horizon
 	url = https://github.com/rcbops-cookbooks/horizon.git
@@ -111,7 +111,7 @@
 	url = https://github.com/opscode-cookbooks/build-essential
 [submodule "cookbooks/cinder"]
 	path = cookbooks/cinder
-	url = https://github.com/rcbops-cookbooks/cinder.git
+	url = https://github.com/100PercentIT/cinder.git
 [submodule "cookbooks/haproxy"]
 	path = cookbooks/haproxy
 	url = https://github.com/rcbops-cookbooks/haproxy.git
@@ -120,7 +120,7 @@
 	url = https://github.com/rcbops-cookbooks/corosync.git
 [submodule "cookbooks/nova-network"]
 	path = cookbooks/nova-network
-	url = https://github.com/rcbops-cookbooks/nova-network.git
+	url = https://github.com/100PercentIT/nova-network.git
 [submodule "cookbooks/keepalived"]
 	path = cookbooks/keepalived
 	url = https://github.com/rcbops-cookbooks/keepalived.git
