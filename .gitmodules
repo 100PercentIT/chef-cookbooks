@@ -24,13 +24,19 @@
 	url = https://github.com/opscode-cookbooks/ntp.git
 [submodule "cookbooks/nova"]
 	path = cookbooks/nova
-	url = https://github.com/100PercentIT/nova.git
+	url = https://github.com/100PercentIT/nova-cookbook.git
 [submodule "cookbooks/keystone"]
 	path = cookbooks/keystone
-	url = https://github.com/100PercentIT/keystone.git
+	url = https://github.com/100PercentIT/keystone-cookbook.git
+[submodule "cookbooks/ceilometer"]
+	path = cookbooks/ceilometer
+	url = https://github.com/100PercentIT/ceilometer-cookbook.git
+[submodule "cookbooks/postgresql-openstack"]
+	path = cookbooks/postgresql-openstack
+	url = https://github.com/100PercentIT/postgresql-openstack-cookbook.git
 [submodule "cookbooks/glance"]
 	path = cookbooks/glance
-	url = https://github.com/100PercentIT/glance.git
+	url = https://github.com/100PercentIT/glance-cookbook.git
 [submodule "cookbooks/horizon"]
 	path = cookbooks/horizon
 	url = https://github.com/rcbops-cookbooks/horizon.git
@@ -39,7 +45,7 @@
 	url = https://github.com/opscode-cookbooks/database.git
 [submodule "cookbooks/postgresql"]
 	path = cookbooks/postgresql
-	url = https://github.com/opscode-cookbooks/postgresql.git
+	url = https://github.com/opscode-cookbooks/postgresql-cookbook.git
 [submodule "cookbooks/aws"]
 	path = cookbooks/aws
 	url = https://github.com/opscode-cookbooks/aws.git
@@ -111,7 +117,7 @@
 	url = https://github.com/opscode-cookbooks/build-essential
 [submodule "cookbooks/cinder"]
 	path = cookbooks/cinder
-	url = https://github.com/100PercentIT/cinder.git
+	url = https://github.com/100PercentIT/cinder-cookbook.git
 [submodule "cookbooks/haproxy"]
 	path = cookbooks/haproxy
 	url = https://github.com/rcbops-cookbooks/haproxy.git
