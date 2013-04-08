@@ -126,7 +126,7 @@
 	url = https://github.com/rcbops-cookbooks/corosync.git
 [submodule "cookbooks/nova-network"]
 	path = cookbooks/nova-network
-	url = https://github.com/100PercentIT/nova-network.git
+	url = https://github.com/100PercentIT/nova-network-cookbook.git
 [submodule "cookbooks/keepalived"]
 	path = cookbooks/keepalived
 	url = https://github.com/rcbops-cookbooks/keepalived.git
